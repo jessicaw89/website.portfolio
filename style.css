@@ -1,0 +1,23 @@
+/*-------- CSS Reset ------*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/*---------- MAIN STYLING ----------*/
+body {
+    background: #fafafa;
+    color: #333;
+    font-family: mr-eaves-modern, sans-serif;
+    
+
+}
+
+font {
+
+font-weight: 400;
+
+font-style: normal;}
